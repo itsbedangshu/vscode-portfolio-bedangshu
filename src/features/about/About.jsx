@@ -3,8 +3,7 @@ import react_icon from "../../assets/icons/react_icon.svg";
 import tailwind_icon from "../../assets/icons/tw-icon.svg";
 import python_icon from "../../assets/icons/python-5.svg";
 import github_icon from "../../assets/icons/github_icon.svg";
-import bedangshuProfile from "../../assets/images/bedangshu-profile.jpg";
-function About() {
+import bedangshuProfile from "../../assets/images/bedangshu-profile-v2.jpg";function About() {
   const techStackIcons = [
     { id: "react", icon: react_icon },
     { id: "tailwind", icon: tailwind_icon },

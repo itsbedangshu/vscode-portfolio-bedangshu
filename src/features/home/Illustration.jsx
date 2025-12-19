@@ -1,5 +1,4 @@
-import bedangshuProfile from "../../assets/images/bedangshu-profile.jpg";
-
+import bedangshuProfile from "../../assets/images/bedangshu-profile-v2.jpg";
 function Illustration() {
   return (
     <div className="  h-[560px] w-[620px] max-sm:h-[440px] max-sm:w-full flex items-center justify-center">
