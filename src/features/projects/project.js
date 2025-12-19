@@ -1,4 +1,3 @@
-import vscode from "../../assets/images/vscode.jpg";
 import rest from "../../assets/images/rest.jpg";
 import dictionary from "../../assets/images/dictionary.jpg";
 import pizza from "../../assets/images/pizzapic.jpg";
