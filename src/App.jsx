@@ -9,7 +9,7 @@ import Settings from "./features/settings/Settings";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import { ThemeProvider } from "./context/ThemeContext";
 import ErrorPage from "./features/error/ErrorPage";
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 
 const router = createBrowserRouter([
   {
